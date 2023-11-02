@@ -41,10 +41,11 @@ a {
 
 #mainHeading {
     font-size:250%;
-    text-shadow: 2px 2px 5px black
+    text-shadow: 2px 2px 5px black;
+    color: red; /* I wanted to use white with a black shadow here */
 }
 
 .funParagraph {
     padding: 1.25em;
-    color: rgb(129, 80, 69);
+    color: green; /*I wanted to use a burnt orange here */
 }
