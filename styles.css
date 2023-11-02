@@ -1,1 +1,50 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    text-align: center;
+    width: 60%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #4f637f;
+    font-size: 110%;
+}
+
+#opener {
+    border-style: ridge;
+    border-radius: 25px;
+    background-color:#404e61;
+
+    
+}
+
+.subTitle {
+    font-size:150%;
+    text-shadow: 2px 2px 5px black
+}
+
+img {
+    border-style: inset;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    padding: 1.25em;
+}
+
+#mainHeading {
+    font-size:250%;
+    text-shadow: 2px 2px 5px black
+}
+
+.funParagraph {
+    padding: 1.25em;
+    color: rgb(129, 80, 69);
+}
